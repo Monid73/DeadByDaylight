@@ -1,0 +1,374 @@
+	@font-face {
+		font-family: thi;
+		src: url(BuyanThin.ttf);
+	}
+	@font-face {
+		font-family: main;
+		src: url(BuyanRegular.ttf);
+	}
+	@font-face {
+		font-family: head;
+		src: url(BuyanBold.ttf);
+	}
+	.fullfullback
+	{
+	background-image: url(fullba.jpg);
+	background-size: 100%;
+
+	}
+	.fullback {
+background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 92%, rgba(0,0,0,0) 100%);
+
+	}
+	.main {
+		background-color: none;
+	}
+	*{
+		margin: 0;
+		padding: 0;
+	}
+
+	.bigdiv {
+		height: 3500px;
+		width: 950px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.header {
+		height: 100px;
+		background-color: #1D1D1D;
+	}
+	.head-icon {
+		height: 100px;
+		width: 100px;
+		background-color: none;
+	}
+	.head-text {
+		height: 100px;
+		width: 830px;
+		margin-left: 20px;
+		background-color: none;
+	}
+	.banner {
+		padding-top: 65px;
+		padding-left: 217.5px;
+		height: 200px;
+		background-color: none;
+		font-family: thi;
+	}
+	.fontbann {
+		font-size: 100px;
+		font-family: thi;
+		color: white;
+	}
+	.Icon {
+		width: 650px;
+	}
+	.desc-title {
+		text-align: center;
+		font-family: thi;
+	}
+	.fontsize {
+		font-size: 70px;
+		color: white;
+		padding-top: 15px;
+		border-bottom: 1px solid #ffffff;
+		font-family: thi;
+		text-align: center;
+	}
+	.font-text {
+		font-size: 40px;
+		font-family: thi;
+		color: white;
+		padding-left: 15px;
+	}
+	.gamesize {
+		font-size: 40px;
+		color: white;
+		padding-top: 15px;
+		font-family: thi;
+	}
+	.gamedescsize {
+		font-size: 35px;
+		color: white;
+		font-family: main;
+	}
+	.gameperkdesc {
+		font-size: 27px;
+		color: white;
+		font-family: main;
+	}
+	.gameperkvid
+	.text-stop {
+		width: 410px;
+	}
+	.descsize {
+		font-size: 39px;
+		color: white;
+		text-align: center;
+	}
+	.description {
+		margin-top: 50px;
+		height: 589px;
+		background-color: #070707;
+		background-size: 100%;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.d-flex {
+		display: flex;
+	}
+	.desc-text {
+		margin-top: 45px;
+		margin-left: 15px;
+		width: 470px;
+		height: 385px;
+		background-color: #070707;
+		background-image: url(textu.jpg);
+		background-size: 100%;
+		padding-top: 15px;
+		text-align: center;
+		font-family: main;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.desc-images {
+		width: 450px;
+		height: 400px;
+		background-color: none;
+		background-image: url(textu.jpg);
+		background-size: 100%;
+		margin-left: 55px;
+		margin-top: 45px;
+		margin-right: 15px;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.descimagesize {
+		width: 390px;
+		padding-left: 12.5px;
+	}
+	.descimagesize2 {
+		width: 390px;
+		padding-top: 5px;
+		padding-left: 12.5px;
+	}
+	.gamediv {
+		margin-top: 100px;
+		padding-top: 70px;
+		height: 1000px;
+		background-color: #070707;
+		border: solid;
+		border-color: #1F1F1F;
+		background-size: 100%;
+	}
+	.gameblock {
+		width: 430px;
+		height: 710px;
+		margin-left: 30px;
+		background-color: none;
+		background-image: url(textu.jpg);
+		background-size: 100%;
+		border-radius: 4px;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.gameperk {
+		width: 880px;
+		height: 250px;
+		margin-left: 40.5px;
+		margin-top: 20px;
+		background-color: #070707;
+	}
+	.gameperk-title {
+		width: 370px;
+		height: 50px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.gameperkdiv {
+		margin-left: 15px;
+		width: 650px;
+		height: 177px;
+		background-color: none;
+		background-image: url(textu.jpg);
+		background-size: 120%;
+		text-align: center;
+		padding-top: 5px;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.gameperkright {
+		height: 100px;
+		width: 100px;
+		margin-left: 10px;
+		background-color: none;
+	}
+	.gamebt {
+		width: 187px;
+	}
+	.playas {
+		width: 400px;
+		height: 65px;
+		margin-left: 15px;
+		margin-top: 10px;
+		background-color: none;
+		text-align: center;
+		font-family: thi;
+		border-bottom: 1px solid #ffffff;
+	}
+	.gamepic {
+		width: 400px;
+		height: 200px;
+		margin-left: 15px;
+		margin-top: 10px;
+		background-color: none;
+	}
+	.gamepicsize:hover {
+		filter: brightness(120%);
+		transition: 0.19s
+	}
+	.gamepicsize {
+		padding-top: 30px;
+		width: 130px;
+	}
+	.gamedesc {
+		width: 400px;
+		height: 135px;
+		margin-left: 15px;
+		margin-top: 10px;
+		background-color: none;
+		padding-top: 15px;
+		text-align: center;
+		font-family: main;
+		border-top: 1px solid #ffffff;
+	}
+	.mechanics {
+		margin-top: 50px;
+		height: 500px;
+		background-color: #070707;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.mecha-title {
+		width:700px;
+		height: 80px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-top: 25px;
+	}
+	.perkpic {
+		width: 50px;
+	}
+	.mechanics-block {
+		width: 300px;
+		height: 350px;
+		margin-left: 6px;
+		margin-top: 20px;
+		background-color: none;
+		background-image: url(textu.jpg);
+		background-size: 100%;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.mechanics-gif-blocks {
+		width: 300px;
+		height: 220px;
+
+		background-color: none;
+	}
+	.mechanicsgifsize {
+		width: 73.3px;
+		text-align: left;
+	}
+	.mechanics-text-size {
+		text-align: center;
+		font-size: 30px;
+		font-family: main;
+		color: white;
+		border-bottom: solid;
+		border-color: #1F1F1F;
+	}
+	.firstgif {
+		width: 300px;
+		height: 73.3px;
+		background-color: #070707;
+		border-bottom: solid;
+		border-color: #1F1F1F;
+	}
+	.first-text {
+		font-family: thi;
+		font-size: 21px;
+		color: white;
+		text-align: center;
+		padding-top: 15px;
+		border-left: solid;
+		border-color: #1F1F1F;
+	}
+	.guests {
+		margin-top: 50px;
+		height: 540px;
+		background-color: #070707;
+		padding-top: 20px;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.guests-title {
+		width: 910px;
+		height: 90px;
+		margin-left: 15px;
+		background-color: none;
+		font-family: thi;
+	}
+	.guests-block {
+		width: 910px;
+		height: 280px;
+		margin-left: 15px;
+		margin-top: 10px;
+		padding-top: 10px;
+		background-color: none;
+		background-image: url(textu.jpg);
+		background-size: 100%;
+		font-family: main;
+		border: solid;
+		border-color: #1F1F1F;
+	}
+	.guests-image {
+		width: 250px;
+		height: 300px;
+		background-color: none;
+		margin-left: 0px;
+		border-right: 1px solid;
+	}
+	.guests-img {
+		width: 220px;
+		padding-top: 5px;
+		padding-left: 3.5px;
+	}
+	.guests-img-freddy {
+		width: 220px;
+		height: 124.5px;
+		padding-top: 5px;
+		padding-left: 3.5px;
+	}
+	.guests-img-ghost {
+		width: 220px;
+		height: 124.5px;
+		padding-top: 5px;
+		padding-left: 3.5px;
+	}
+	.guests-size {
+		width: 100px;
+		padding-top: 5px;
+		padding-left: 7px;
+	}
+	.guests-border {
+		border-top: 1px solid #ffffff;
+	}
+	.guests-text {
+		padding-top: 10px;
+		font-size: 39px;
+		color: white;
+		text-align: center;
+	}
